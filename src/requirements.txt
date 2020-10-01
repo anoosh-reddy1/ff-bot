@@ -1,0 +1,2 @@
+espn_api>=0.5.1
+requests>=2.0.0
